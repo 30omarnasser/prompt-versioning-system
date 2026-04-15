@@ -1,0 +1,36 @@
+2026-04-15 01:24:18.887 EET [35220] LOG:  starting PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35223, 64-bit
+2026-04-15 01:24:18.890 EET [35220] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-04-15 01:24:18.890 EET [35220] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-04-15 01:24:18.890 EET [35220] WARNING:  could not create listen socket for "localhost"
+2026-04-15 01:24:18.890 EET [35220] FATAL:  could not create any TCP/IP sockets
+2026-04-15 01:24:18.891 EET [35220] LOG:  database system is shut down
+2026-04-15 01:24:29.695 EET [34456] LOG:  starting PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35223, 64-bit
+2026-04-15 01:24:29.698 EET [34456] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-04-15 01:24:29.698 EET [34456] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-04-15 01:24:29.698 EET [34456] WARNING:  could not create listen socket for "localhost"
+2026-04-15 01:24:29.698 EET [34456] FATAL:  could not create any TCP/IP sockets
+2026-04-15 01:24:29.699 EET [34456] LOG:  database system is shut down
+2026-04-15 01:24:54.805 EET [26776] LOG:  starting PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35223, 64-bit
+2026-04-15 01:24:54.808 EET [26776] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-04-15 01:24:54.808 EET [26776] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-04-15 01:24:54.808 EET [26776] WARNING:  could not create listen socket for "localhost"
+2026-04-15 01:24:54.808 EET [26776] FATAL:  could not create any TCP/IP sockets
+2026-04-15 01:24:54.810 EET [26776] LOG:  database system is shut down
+2026-04-15 01:25:26.493 EET [20212] LOG:  starting PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35223, 64-bit
+2026-04-15 01:25:26.496 EET [20212] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-04-15 01:25:26.496 EET [20212] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-04-15 01:25:26.496 EET [20212] WARNING:  could not create listen socket for "localhost"
+2026-04-15 01:25:26.496 EET [20212] FATAL:  could not create any TCP/IP sockets
+2026-04-15 01:25:26.498 EET [20212] LOG:  database system is shut down
+2026-04-15 01:26:44.500 EET [33312] LOG:  starting PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35223, 64-bit
+2026-04-15 01:26:44.503 EET [33312] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-04-15 01:26:44.503 EET [33312] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-04-15 01:26:44.503 EET [33312] WARNING:  could not create listen socket for "localhost"
+2026-04-15 01:26:44.503 EET [33312] FATAL:  could not create any TCP/IP sockets
+2026-04-15 01:26:44.505 EET [33312] LOG:  database system is shut down
+2026-04-15 01:28:40.404 EET [33896] LOG:  starting PostgreSQL 18.3 on x86_64-windows, compiled by msvc-19.44.35223, 64-bit
+2026-04-15 01:28:40.407 EET [33896] LOG:  could not bind IPv6 address "::1": Permission denied
+2026-04-15 01:28:40.407 EET [33896] LOG:  could not bind IPv4 address "127.0.0.1": Permission denied
+2026-04-15 01:28:40.407 EET [33896] WARNING:  could not create listen socket for "localhost"
+2026-04-15 01:28:40.407 EET [33896] FATAL:  could not create any TCP/IP sockets
+2026-04-15 01:28:40.409 EET [33896] LOG:  database system is shut down

@@ -1,0 +1,20 @@
+{
+  "summarizer": {
+    "template": "You are a expert summarizer. Summarize the following text in {length} sentences:\n\n{text}",
+    "variables": ["text", "length"],
+    "model": "gpt-4",
+    "temperature": 0.5
+  },
+  "sentiment_analyzer": {
+    "template": "Analyze the sentiment of the following text. Respond with one word: Positive, Negative, or Neutral.\n\nText: {text}",
+    "variables": ["text"],
+    "model": "gpt-3.5-turbo",
+    "temperature": 0.3
+  },
+  "qa_bot": {
+    "template": "Based on the following context, answer the question. If the answer cannot be found, say 'I cannot answer based on the provided context.'\n\nContext: {context}\n\nQuestion: {question}\n\nAnswer:",
+    "variables": ["context", "question"],
+    "model": "gpt-4",
+    "temperature": 0.7
+  }
+}
